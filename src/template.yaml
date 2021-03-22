@@ -1,5 +1,5 @@
 WebPyComponent:
-  Component: webpy
+  Component: webpy-alibaba-component
   Provider: alibaba
   Extends:
     deploy:
