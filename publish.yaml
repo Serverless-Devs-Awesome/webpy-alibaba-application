@@ -1,8 +1,8 @@
 Type: Application
-Name: webpy
+Name: webpy-app
 Version: 0.0.6
 Provider:
-  - Alibaba
+  - 阿里云
 Description: 快速部署一个Web.Py框架到阿里云函数计算
 HomePage: https://serverless.aliyun.com/
 Tags:
